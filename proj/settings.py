@@ -25,7 +25,7 @@ SECRET_KEY = '8*d^w_9g=v47ne&_$e+7r(3)jpf5)16-uz=x+i=1mqj-aozs_^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'chinamilk.herokuapp.com']
 
 
 # Application definition
